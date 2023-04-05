@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lee</h1>
 <h3 align="center">A passionate full-stack developer student</h3>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linege1234)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linege1234&show_icons=true&theme=highcontrast)
+
 
 - 📫 How to reach me **linege1234@gmail.com**
 
