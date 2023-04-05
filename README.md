@@ -48,7 +48,7 @@
 <div align="center">
   <h3 align="center">Statistics</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=linege1234&show_icons=true&locale=en&layout=compact" alt="linege1234" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linege1234&show_icons=true&locale=en" alt="linege1234" /></p>
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linege1234&show_icons=true&theme=cobalt)
 
 </div>
 
