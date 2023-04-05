@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lee</h1>
 <h3 align="center">A passionate full-stack developer student</h3>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YS%20Lee%20!&desc=Hello,%20thank%20you%20for%20visiting&descAlign=70&customColorList=1,4,7)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&height=200&section=header&text=YS%20Lee%20!&desc=Hello,%20thank%20you%20for%20visiting&descAlign=70)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linege1234&show_icons=true&theme=cobalt)
