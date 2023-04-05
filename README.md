@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=A3DCBE&height=250&section=header&text=YS%20Lee%20!&desc=Hello,%20thank%20you%20for%20visiting&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=1C768F&height=250&section=header&text=YS%20Lee%20!&desc=Hello,%20thank%20you%20for%20visiting&descAlign=50)
 
 <h3 align="center">Hi 👋, I'm Lee</h3>
 <h2 align="center">A eager to be full-stack developer student</h2>
@@ -52,5 +52,5 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=100&customColorList=1,4,7)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=1C768F&height=100)
 
