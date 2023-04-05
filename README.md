@@ -45,10 +45,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/yeonsu-lee-aa0621148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeonsu lee" height="30" width="40" /></a>
 </p>
-
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linege1234&show_icons=true&locale=en&layout=compact" alt="linege1234" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linege1234&show_icons=true&locale=en" alt="linege1234" /></p>
-
+</div>
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=100&customColorList=1,4,7)
 
