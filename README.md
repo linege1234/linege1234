@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer student</h3>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linege1234&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linege1234&show_icons=true&theme=cobalt)
 
 
 - 📫 How to reach me **linege1234@gmail.com**
