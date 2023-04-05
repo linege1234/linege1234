@@ -24,9 +24,9 @@
 <div align="center">
 <img src="https://img.shields.io/badge/-Express-%23F7DF1E?style=flat-square&logo=Express&logoColor=white&color=000000">
 <img src="https://img.shields.io/badge/-.NET-%23F7DF1E?style=flat-square&logo=.NET&logoColor=white&color=512BD4">
+  <img src="https://img.shields.io/badge/-Flask-%23F7DF1E?style=flat-square&logo=Flask&logoColor=white&color=#000000">
 <img src="https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1">
 <img src="https://img.shields.io/badge/-PostgreSQL-%23F7DF1E?style=flat-square&logo=PostgreSQL&logoColor=white&color=4169E1">
-<img src="https://img.shields.io/badge/-Flask-%23F7DF1E?style=flat-square&logo=Flask&logoColor=white&color=#000000">
 
 </div>
 <div align="center">[Design]</div>
